@@ -24,3 +24,5 @@ coverage
 build/
 dist/
 
+#
+MYSQL/config.js
